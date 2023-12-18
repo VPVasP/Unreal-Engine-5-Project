@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/vasil/Desktop/UnrealEngineProjects/Unreal-Engine-5-Project/ThirdPersonGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/vasil/Desktop/UnrealEngineProjects/Unreal-Engine-5-Project/ThirdPersonGame/Content/ThirdPerson/Blueprints/BP_Cubes.uasset",
+				"C:/Users/vasil/Desktop/UnrealEngineProjects/Unreal-Engine-5-Project/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/vasil/Desktop/UnrealEngineProjects/Unreal-Engine-5-Project/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/vasil/Desktop/UnrealEngineProjects/Unreal-Engine-5-Project/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/vasil/Desktop/UnrealEngineProjects/Unreal-Engine-5-Project/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/WW/X7FGMZLMT0SIMZSH0A78AV.uasset",
+				"C:/Users/vasil/Desktop/UnrealEngineProjects/Unreal-Engine-5-Project/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3D/YQE3X61NZ4ZQJ19POIWOY8.uasset",
+				"C:/Users/vasil/Desktop/UnrealEngineProjects/Unreal-Engine-5-Project/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/O5/0DWOPHEJ4IB20Z3U54WGA0.uasset",
+				"C:/Users/vasil/Desktop/UnrealEngineProjects/Unreal-Engine-5-Project/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RB/AGDU9VH0F796A5ZA4R1I2Z.uasset",
 				"C:/Users/vasil/Desktop/UnrealEngineProjects/ThirdPersonGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/vasil/Desktop/UnrealEngineProjects/ThirdPersonGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
